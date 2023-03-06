@@ -1,0 +1,27 @@
+
+        .image {
+            width: 1500px;
+            border: 5px solid white;
+            background-color: pink;
+            height: 300px;
+
+
+        }
+
+        .name {
+            text-align: center;
+            transform: translate(-350px, -170px);
+
+        }
+
+        .info {
+            text-align: center;
+            transform: translate(500px, -310px);
+        }
+        .ul {
+            transform: translate(200px , -88px);
+            
+            
+
+        }
+       
